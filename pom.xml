@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>stacktrace</artifactId>
-    <version>0.5.0</version>
+    <version>0.5.0-SNAPSHOT</version>
     <name>stacktrace.js</name>
     <description>WebJar for stacktrace.js</description>
     <url>http://webjars.org</url>
@@ -26,8 +26,8 @@
 
     <scm>
         <url>http://github.com/webjars/stacktrace</url>
-        <connection>scm:git:https://github.com/eriwen/javascript-stacktrace.git</connection>
-        <developerConnection>scm:git:https://github.com/eriwen/javascript-stacktrace.git</developerConnection>
+        <connection>scm:git:https://github.com/webjars/stacktrace.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/stacktrace.git</developerConnection>
         <tag>stacktrace-0.5.0</tag>
     </scm>
 
