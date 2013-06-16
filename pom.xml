@@ -41,8 +41,8 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstreamVersion>${project.version}</upstreamVersion>
-        <upstream.url>https://raw.github.com/eriwen/javascript-stacktrace/v0.5.0/</upstream.url>
+        <upstreamVersion>0.5.0</upstreamVersion>
+        <upstream.url>https://raw.github.com/eriwen/javascript-stacktrace/v${upstreamVersion}</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstreamVersion}</destDir>
     </properties>
 
