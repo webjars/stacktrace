@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>stacktrace</artifactId>
-    <version>0.6.0</version>
+    <version>0.6.1-SNAPSHOT</version>
     <name>stacktrace.js</name>
     <description>WebJar for stacktrace.js</description>
     <url>http://webjars.org</url>
